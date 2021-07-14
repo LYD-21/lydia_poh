@@ -52,7 +52,7 @@ Engineering Graduate 2010-14, First Division
 
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
-<!-- Add your details -->
+<!-- BCG Hackathon Project -->
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
