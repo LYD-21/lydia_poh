@@ -25,6 +25,7 @@ I am __Lydia Poh__, a seasoned data scientist with ~7 years of progressive exper
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Freelancing](#freelancing) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -84,3 +85,5 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+### Freelancing
+I have been freelancing for 3 years
